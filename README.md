@@ -29,5 +29,5 @@
 
 ### :trophy: Достижения :
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?shaman3371=" alt=""/>
 </div>

@@ -23,10 +23,7 @@
 
 - ### :hammer_and_wrench: Языки и инструменть| :
 <div>
-<img src = "" width="40" height="40"/>
-<img src = "" width="40" height="40"/>
-<img src = "" width="40" height="40"/>
-<img src = "" width="40" height="40"/>
-<img src = " " width="40" height="40"/
+<img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+
 </div>
 

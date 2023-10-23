@@ -35,3 +35,8 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaman3371" alt=""/>
 </div>
+
+### :bar_chart: Статистика активности :
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=&theme=" alt=""/>
+</div>

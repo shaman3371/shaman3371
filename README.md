@@ -22,4 +22,11 @@
 - :biking_man: факт обо мне
 
 - ### :hammer_and_wrench: Языки и инструменть| :
-<img width="1280" alt="image" src="https://github.com/shaman3371/shaman3371/assets/148820225/03f933be-1d84-4264-9cfa-fbcd831b02fb">
+<div>
+<img src = "" width="40" height="40"/>
+<img src = "" width="40" height="40"/>
+<img src = "" width="40" height="40"/>
+<img src = "" width="40" height="40"/>
+<img src = " " width="40" height="40"/
+</div>
+

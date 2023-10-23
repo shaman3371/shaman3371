@@ -29,5 +29,5 @@
 
 ### :trophy: Достижения :
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?shaman3371=" alt=""/>
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)/>
 </div>

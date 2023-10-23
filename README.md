@@ -17,3 +17,6 @@
 </div>
 
 ### :man_technologist: Обо мне: 
+- :brain: факт обо мне
+- :man_pilot: факт обо мне
+- :biking_man: факт обо мне
